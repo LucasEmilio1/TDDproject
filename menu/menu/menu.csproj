@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\MetrosToMM\MetrosTest\MetrosTest.csproj" />
+    <ProjectReference Include="..\..\MetrosToMM\MetrosToMM\MetrosToMM.csproj" />
+    <ProjectReference Include="..\..\SomaTest\SomaTest.csproj" />
+    <ProjectReference Include="..\..\TDDproject\Soma.csproj" />
+  </ItemGroup>
+
+</Project>

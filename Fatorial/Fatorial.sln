@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{E81E26AD-71AE-48D2-8E46-3AEFC215665A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatorialTest", "FatorialTest\FatorialTest.csproj", "{3862B785-4C17-4952-862F-5ED3B38200AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81E26AD-71AE-48D2-8E46-3AEFC215665A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81E26AD-71AE-48D2-8E46-3AEFC215665A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81E26AD-71AE-48D2-8E46-3AEFC215665A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81E26AD-71AE-48D2-8E46-3AEFC215665A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3862B785-4C17-4952-862F-5ED3B38200AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3862B785-4C17-4952-862F-5ED3B38200AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3862B785-4C17-4952-862F-5ED3B38200AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3862B785-4C17-4952-862F-5ED3B38200AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B570D99C-471C-4599-B917-4F56BCB3A033}
+	EndGlobalSection
+EndGlobal
